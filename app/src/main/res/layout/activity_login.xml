@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/height_5_80"
+        android:layout_marginRight="@dimen/height_5_80"
+        android:layout_marginTop="@dimen/height_10_80">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/user_name"
+            android:hint="用户名"
+           />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/height_5_80"
+        android:layout_marginRight="@dimen/height_5_80"
+        android:layout_marginTop="@dimen/height_2_80">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/user_password"
+            android:inputType="textPassword"
+            android:hint="密 码"
+            />
+    </android.support.design.widget.TextInputLayout>
+
+    <com.qmuiteam.qmui.widget.roundwidget.QMUIRoundButton
+        android:id="@+id/button_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingLeft="@dimen/height_5_80"
+        android:paddingRight="@dimen/height_5_80"
+        android:paddingTop="10dp"
+        android:layout_marginTop="@dimen/height_2_80"
+        android:text="登 录"
+        android:textSize="@dimen/text_size_6"
+        app:qmui_radius="4dp" />
+
+    <com.qmuiteam.qmui.widget.roundwidget.QMUIRoundButton
+        android:id="@+id/button_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingLeft="@dimen/height_5_80"
+        android:paddingRight="@dimen/height_5_80"
+        android:layout_marginTop="@dimen/height_2_80"
+        android:paddingTop="10dp"
+        android:text="清 空"
+        android:textSize="@dimen/text_size_6"
+        app:qmui_radius="4dp" />
+</LinearLayout>

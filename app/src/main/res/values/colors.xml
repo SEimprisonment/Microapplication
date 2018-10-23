@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="new_bg_blue">#149FF0</color>
+    <color name="new_bg_bluess">#158ee4</color>
+    <color name="bg_shenghuaxiao">#0090e2</color>
+    <color name="colorCircleRed">#DF505E</color>
+
+    <color name="white">#fff</color>
+    <color name="_grey">#B7B7B7</color>
+    <color name="Semi_transparent">#50000000</color>
+    <color name="back">#000000</color>
+    <color name="bg_e6e6e6">#e6e6e6</color>
+    <color name="back_333">#333333</color>
+    <color name="text_212121">#212121</color>
+    <color name="text_323232">#323232</color>
+    <color name="text_time_6b">#6B6B6B</color>
+    <color name="text_title_21">#212121</color>
+    <color name="text_content_37">#373737</color>
+    <color name="bg_fafafa">#fafafa</color>
+    <color name="bg_d9d9d9">#d9d9d9</color>
+    <color name="text_5c">#5c5c5c</color>
+    <color name="text_4c">#4c4c4c</color>
+    <color name="text_44">#444444</color>
+    <color name="text_66">#666666</color>
+    <color name="bg_59c3e1">#87c4f2</color>
+    <color name="text_3c">#3c3c3c</color>
+    <color name="text_b3">#b3b3b3</color>
+
+    <color name="bg_f2f2f2">#f2f2f2</color>
+    <color name="bg_f1f1f1">#f1f1f1</color>
+    <color name="text_ad">#adadad</color>
+    <color name="text_99">#999999</color>
+    <color name="text_bc">#bcbcbc</color>
+    <color name="text_f1b29a">#f1b29a</color>
+    <color name="transparente">#00000000</color>
+    <color name="line">#E1E1E1</color>
+    <color name="line2">#F2F2F2</color>
+    <color name="line3">#F6F6F6</color>
+    <color name="bg_666666">#666666</color>
+    <color name="text_7c">#7c7c7c</color>
+    <color name="bg_line">#e68d5a</color>
+    <color name="text_cc">#cccccc</color>
+    <color name="bg_f4eaec">#f4eaec</color>
+    <color name="bg_bdaoao">#bda0a0</color>
+    <color name="bg_ef845c">#ef845c</color>
+    <color name="blue_61b7d9">#61b7d9</color>
+    <color name="green_09c992">#09c992</color>
+    <color name="red_f85c76">#f85c76</color>
+    <color name="gra_F6F5F4">#F6F5F4</color>
+    <color name="gra_F45656">#F45656</color>
+    <color name="gra_139FF0">#139FF0</color>
+    <color name="statusvar_0">#00000000</color>
+    <color name="gra_eeeee">#eeeeee</color>
+
+    <color name="bg_cccccc">#cccccc</color>
+    <color name="bg_139ff0">#139ff0</color>
+    <color name="bg_999999">#999999</color>
+    <color name="bg_f74664">#f74664</color>
+    <color name="bg_f45655">#f45655</color>
+    <color name="bg_129fef">#129fef</color>
+    <color name="bg_activity">#e6e6e6</color>
+    <color name="sousuo_bg">#e42d2d2d</color>
+
+    <color name="tv_color">#158ee4</color>
+    <color name="member_gray">#f7f5f5</color>
+
+    <color name="window_popup_bg_color">#f8f8f8</color>
+    <color name="window_popup_stroke_color">#c6c6c6</color>
+    <color name="text_black_a_color">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="dropdown_color">#CFCFCF</color>
+    <color name="text_green_i_color">#88d136</color>
+    <color name="gray">#dadada</color>
+    <color name="albumback">#E1E0DE</color>
+    <color name="albg">#11000000</color>
+    <color name="bg_eaeaea">#eaeaea</color>
+    <color name="bg_fcfcfc">#fcfcfc</color>
+    <color name="bar_f2314c">#f2314c</color>
+    <color name="bar_b138d1">#b138d1</color>
+    <color name="bar_4d35e3">#4d35e3</color>
+    <color name="bar_168fe4">#168fe4</color>
+    <color name="txt_87c4f2">#87c4f2</color>
+    <color name="txt_e7">#e7f4fd</color>
+
+    <color name="txt_yello">#ffb15f</color>
+
+    <!-- Background color for light CardView. -->
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <!-- Background color for dark CardView. -->
+    <color name="cardview_dark_background">#FF202020</color>
+    <!-- Shadow color for the first pixels around CardView. -->
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- Shadow color for the furthest pixels around CardView. -->
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="home_head">#168EE4</color>
+    <color name="ee6fc9">#116fc9</color>
+
+    <color name="bg_simple_gray">#EFEFEF</color>
+    <color name="GrayTitle0">#6E6E6E</color>
+    <color name="Gray666">#666666</color>
+    <color name="default_text">#ff454545</color>
+    <color name="gray_3_1">#CBCBCB</color>
+    <color name="ivory">#ffffff</color>
+    <color name="text_comm">#333333</color>
+    <color name="hint_color">#999999</color>
+    <color name="darkgrey">#a9a9a9</color>
+    <color name="bg_title">#FE9F07</color>
+    <color name="blue_simple">#3FBAFB</color>
+    <color name="reddish_3_1">#FFF8EE</color>
+    <color name="bg_62b3c6">#62b3c6</color>
+    <color name="bg_ec6c45">#ec6c45</color>
+    <color name="bg_c8e06e">#c8e06e</color>
+    <color name="bg_eb6089">#eb6089</color>
+    <color name="bg_tb_blue">#F3F9FB</color>
+    <color name="tb_qian_blue">#FDFFFF</color>
+    <!--注册统计的背景颜色-->
+    <color name="stat_register_color_bg">#fdf8f4</color>
+    <!--注册统计进度条的背景颜色-->
+    <color name="stat_register_progress_bg">#e9e9e9</color>
+    <!--注册统计 第一名 进度条颜色-->
+    <color name="stat_register_progress_first_bg">#fa513c</color>
+    <!--注册统计 第二名 进度条颜色-->
+    <color name="stat_register_progress_second_bg">#9cdb5a</color>
+    <!--注册统计 第三名 进度条颜色-->
+    <color name="stat_register_progress_third_bg">#f87918</color>
+    <!--注册统计 其他 进度条颜色-->
+    <color name="stat_register_progress_other_bg">#e9cb83</color>
+    <color name="stat_register_tv">#ffd9ac</color>
+    <color name="num_large_unit">#bad880</color>
+    <color name="six_industry_support">#ffbd60</color>
+    <color name="six_industry_sign">#fde1ba</color>
+    <color name="six_industry_title_support">#fc7538</color>
+    <color name="six_industry_title_sign">#fcbd60</color>
+    <color name="popup_bold_title_large_unit">#f5e168</color>
+    <color name="popup_bold_three_desc_large_unit">#fffc2b</color>
+    <!--全国注册-->
+    <color name="register_stat_first">#e84747</color>
+    <color name="register_stat_second">#ff8125</color>
+    <color name="register_stat_third">#cc8f70</color>
+    <color name="register_stat_other">#339df8</color>
+
+
+    <color name="stat_support_default">#f5d964</color>
+    <color name="text_b2">#b2b2b2</color>
+    <color name="grayf3">#F3F3F3</color>
+    <color name="gray9A">#9A9A9A</color>
+    <color name="black4A">#4A4A4A</color>
+    <color name="blackA3">#A3A3A3</color>
+    <color name="blueF4">#F4FCFF</color>
+    <color name="title_color">#666666</color>
+    <color name="more_color">#Cf6600</color>
+    <color name="date_color">#b2b2b2</color>
+    <color name="des_color">#999999</color>
+    <color name="bg_f3f3f3">#f3f3f3</color>
+    <color name="bg_f4f9fc">#f4f9fc</color>
+    <color name="bg_c7c7c7">#c7c7c7</color>
+    <color name="gray11">#11111111</color>
+    <color name="orangefa">#fa7142</color>
+    <color name="blue00">#0091e2</color>
+    <color name="lightBlue">#239FE5</color>
+    <color name="ybty_color">#0091E2</color>
+    <color name="ybbty_color">#666666</color>
+    <color name="ybbty_color2">#b5b5b5</color>
+    <color name="ybbty_color3">#f39700</color>
+    <color name="gray0">#cccccccc</color>
+    <color name="gray1">#e5e5e5</color>
+    <color name="grayDD">#DDDDDD</color>
+    <color name="grayF5">#F5F5F5</color>
+    <color name="gray8C">#8C8C8C</color>
+    <color name="grayE1">#E1E1E1</color>
+    <color name="black30">#303030</color>
+    <color name="black40">#404040</color>
+    <color name="black44">#444444</color>
+    <color name="black158EE4">#158EE4</color>
+    <color name="grayF2">#F2F2F2</color>
+    <color name="gray70">#707070</color>
+    <color name="gray80">#808080</color>
+    <color name="yellowFF">#ff5b02</color>
+    <color name="yellow99">#ff9900</color>
+    <color name="blue06">#06ccab</color>
+    <color name="text_num">#a7a7a7</color>
+    <color name="text_first">#ff5b02</color>
+    <color name="text_second">#ff9900</color>
+    <color name="text_third">#0cc5a6</color>
+    <color name="bg_1faefb">#1faefb</color>
+    <color name="background_first">#168de4</color>
+    <color name="background_second">#08b4ed</color>
+    <color name="bgf7">#F7FCFE</color>
+    <color name="bgee">#EEEEEE</color>
+    <color name="GreyT">#50808080</color>
+    <color name="GrayLine0">#E9E9E9</color>
+    <color name="Gray99">#999999</color>
+    <color name="Gray66">#666666</color>
+    <color name="Gray44">#444444</color>
+    <color name="Blue0">#019FE5</color>
+    <color name="Blue2">#30ADFD</color>
+    <color name="Bg0">#019FE5</color>
+    <color name="Blue3">#9ecbfb</color>
+    <color name="SuperListTitleColor">#8A8989</color>
+    <color name="SuperListTextColor">#A8A8A8</color>
+    <!-- 洋李色 -->
+    <color name="gainsboro">#dcdcdc</color>
+    <color name="RecourceMatchingTableLayoutBackground">#FFFFFF</color>
+    <color name="RecourceMatchingTableTitleBackground">#ECEBEB</color>
+    <color name="Gray2">#F5F5F5</color>
+    <color name="black4AT">#CC000000</color>
+    <color name="color_tool_bar">#0091e2</color>
+    <color name="colorWidthdrawAcceptBg">#190091e2</color>
+    <color name="colorWidthdrawUnAcceptBg">#19ef8f36</color>
+    <color name="colorWidthdrawUnConfirmedBg">#19fe6d6d</color>
+    <color name="colorWidthdrawAcceptText">#3f8fdc</color>
+    <color name="colorWidthdrawUnAcceptText">#ef8f36</color>
+    <color name="colorWidthdrawUnConfirmedText">#fe6d6d</color>
+    <color name="colorWidthdrawAcceptBtnBg">#0f88ed</color>
+    <color name="transparentGrayBG">#66000000</color>
+    <color name="txt_90">#909090</color>
+
+    <color name="read_font_default">#2C2C2C</color>
+
+    <color name="read_bg_default">#CEC29C</color>
+
+</resources>
